@@ -28,8 +28,10 @@ and any error text shown by the app.
 
 ## Related Projects
 
-- SpriteLoop on itch.io: https://balkanramgames.itch.io/spriteloop
-- SpriteLoop Defold extension: https://github.com/Balkan-Ram-Games/spriteloop-defold
+- [SpriteLoop on itch.io](https://balkanramgames.itch.io/spriteloop)
+- [Krita Exporter](https://github.com/Balkan-Ram-Games/spriteloop-krita-exporter) - export layered Krita artwork for SpriteLoop
+- [Photoshop Exporter](https://github.com/Balkan-Ram-Games/spriteloop-photoshop-exporter) - export layered Photoshop artwork for SpriteLoop
+- [Defold Extension](https://github.com/Balkan-Ram-Games/spriteloop-defold) - native `.spla` playback for Defold
 
 ## Screenshots
 
