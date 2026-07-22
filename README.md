@@ -35,4 +35,8 @@ and any error text shown by the app.
 
 ## Screenshots
 
-![SpriteLoop app events workflow](screenshots/spriteloop-app-events.png)
+![SpriteLoop app run animation](screenshots/run.gif)
+
+![SpriteLoop app Smart Limb bend](screenshots/bend.gif)
+
+![SpriteLoop app links](screenshots/links.gif)
