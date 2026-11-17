@@ -32,6 +32,7 @@ and any error text shown by the app.
 - [Krita Exporter](https://github.com/Balkan-Ram-Games/spriteloop-krita-exporter) - export layered Krita artwork for SpriteLoop
 - [Photoshop Exporter](https://github.com/Balkan-Ram-Games/spriteloop-photoshop-exporter) - export layered Photoshop artwork for SpriteLoop
 - [Defold Extension](https://github.com/Balkan-Ram-Games/spriteloop-defold) - native `.spla` playback for Defold
+- [Godot Extension](https://github.com/Balkan-Ram-Games/spriteloop-godot) - native `.spla` playback for Godot 4.5+
 
 ## Screenshots
 
